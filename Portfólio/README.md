@@ -1,1 +1,1 @@
-<img src="Design.png" alt="Background"
+(./img/Design.jpg)
