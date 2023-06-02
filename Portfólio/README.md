@@ -1,1 +1,1 @@
-![FOTO DO PROJETO](.\img\Design.png)
+![FOTO DO PROJETO](.\img\Design.jpg)
