@@ -1,1 +1,1 @@
-![preview](./img/Design.jpg)
+img\Design.png
