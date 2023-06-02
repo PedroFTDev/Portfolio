@@ -1,2 +1,1 @@
-![Watch Now](Design.jpg)
-
+![preview](./preview/preview.jpg)
