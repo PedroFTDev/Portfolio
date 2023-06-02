@@ -1,1 +1,1 @@
-img\Design.png
+.\img\Design.png
